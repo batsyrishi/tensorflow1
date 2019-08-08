@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rear5c6a2404c77a3f64e84f7eab.jpg</filename>
+	<path>D:\object-detector\train\rear5c6a2404c77a3f64e84f7eab.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>56</ymin>
+			<xmax>498</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
